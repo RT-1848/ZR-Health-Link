@@ -42,7 +42,7 @@
 
 https://github.com/user-attachments/assets/3e5963cf-a0c3-4399-a6b4-76a5f3fabbad
 
-**Why ZR Health Link?**
+## Why ZR Health Link? 
 
 This project delivers a scalable healthcare platform with intuitive workflows, secure role-based access, and seamless user experience. Ideal for hospitals, clinics, or individual practitioners, ZR Health Link supports end-to-end appointment lifecycle management.
 
